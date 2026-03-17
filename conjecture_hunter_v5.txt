@@ -1,0 +1,3 @@
+Conjecture Hunter v5 — FULL GPU, FIXED mod p²
+Primes: 41,535, Time: 175.5s
+GPU: 175.3s, Cornacchia: 0.1s
